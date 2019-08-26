@@ -11,6 +11,7 @@ I am not the best SQL so if someone has a better way of writing this by allmeans
 Examples of data & SQL:
 
 SQL
+
     SELECT Vehicle_Make.Make_Name, Vehicle_Model.Model_Name
     FROM Vehicle_Major_Manufacture
     LEFT JOIN Vehicle_Make
@@ -48,6 +49,7 @@ Results
     Jaguar 	XK8
 
 SQL 
+
     SELECT Vehicle_Make.Make_Name, Vehicle_Model.Model_Name
     FROM Vehicle_Major_Manufacture
     LEFT JOIN Vehicle_Make
