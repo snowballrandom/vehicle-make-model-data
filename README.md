@@ -57,7 +57,8 @@ SQL
     WHERE Vehicle_Major_Manufacture.Make_ID = '460'
     
 Results
-Showing rows 0 - 24 (146 total)
+
+    Showing rows 0 - 24 (146 total)
     Make_Name Model_Name
     Ford 	Crown Victoria
     Ford 	Focus
